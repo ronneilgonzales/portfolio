@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>My Portfolio</title>
+	<title>Ronneil Gonzales Portfolio</title>
 	<atom:link href="https://ronneilgonzales.github.io/portfolio/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ronneilgonzales.github.io/portfolio</link>
 	<description></description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://ronneilgonzales.github.io/portfolio/wp-content/uploads/2022/07/cropped-1000_F_365773444_6L0eTkCF74bVdlApUi1GtzI8R83w7283-32x32.jpg</url>
-	<title>My Portfolio</title>
+	<url>https://ronneilgonzales.github.io/portfolio/wp-content/uploads/2022/07/cropped-favicon-32x32.jpg</url>
+	<title>Ronneil Gonzales Portfolio</title>
 	<link>https://ronneilgonzales.github.io/portfolio</link>
 	<width>32</width>
 	<height>32</height>
